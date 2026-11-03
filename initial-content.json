@@ -1,0 +1,176 @@
+{
+  "brand": {
+    "name": "Coba Market",
+    "tagline": "ӨДӨР БҮР, ТАНТАЙ",
+    "logo": "",
+    "search_placeholder": "Өнөөдөр танд юу хэрэгтэй вэ?"
+  },
+  "announcement": {
+    "visible": true,
+    "messages": [
+      {
+        "text": "Хүнсний бүтээгдэхүүнүүдтэй танилцаарай",
+        "target": "Бүгд"
+      },
+      {
+        "text": "Хүргэлтийн нөхцөлтэй танилцаарай",
+        "target": "Хүргэлт"
+      },
+      {
+        "text": "Шинээр ирсэн бүтээгдэхүүнүүд",
+        "target": "Шинэ"
+      }
+    ]
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "Бүх ангилал",
+        "target": "Бүгд"
+      },
+      {
+        "label": "Хүнс",
+        "target": "Хүнс"
+      },
+      {
+        "label": "Шинээр ирсэн",
+        "target": "Шинэ"
+      },
+      {
+        "label": "Хямдрал",
+        "target": "Хямдрал"
+      }
+    ],
+    "right_text": "Таны сонголтыг, таны үүдэнд"
+  },
+  "hero": {
+    "visible": true,
+    "slides": [
+      {
+        "eyebrow": "ӨДӨР БҮРИЙГ ИЛҮҮ ХЯЛБАР",
+        "title": "Танд хэрэгтэй бүхэн.",
+        "accent": "Нэг дор.",
+        "description": "Хүнсний бүтээгдэхүүнээ нэр, ангилал, үнээр нь хялбархан сонгоорой.",
+        "button": "Бүтээгдэхүүн үзэх",
+        "target": "Бүгд",
+        "image1": "https://cdn.emartmall.mn/Resource/product_webp/024973cf-1395-4923-be40-2a93b4deddfa.webp",
+        "image2": "https://cdn.emartmall.mn/Resource/product_webp/78b00fa8-c901-4803-97e4-f600d617d44e.webp",
+        "label1": "Өдөр бүрийн сонголт",
+        "caption1": "Хэрэгтэй бүхнийг нэг дороос",
+        "label2": "Хүнсний бүтээгдэхүүнүүд",
+        "caption2": "Өөрт тохирох сонголтоо олоорой",
+        "background": "#f0edfb"
+      }
+    ]
+  },
+  "benefits": {
+    "visible": true,
+    "items": [
+      {
+        "icon": "truck",
+        "title": "Хүргэлтийн мэдээлэл",
+        "subtitle": "Бүс, нөхцөлтэй танилцаарай",
+        "target": "Хүргэлт"
+      },
+      {
+        "icon": "leaf",
+        "title": "Хүнсний олон сонголт",
+        "subtitle": "Ангиллаар нь хялбархан хай",
+        "target": "Бүгд"
+      },
+      {
+        "icon": "shield",
+        "title": "Бүтээгдэхүүний мэдээлэл",
+        "subtitle": "Нэр, савлагаа, үнийг харьцуул",
+        "target": "Бүгд"
+      },
+      {
+        "icon": "bag",
+        "title": "Танд зориулсан сагс",
+        "subtitle": "Сонголтоо хадгалаад үргэлжлүүл",
+        "target": "Сагс"
+      }
+    ]
+  },
+  "categories": {
+    "visible": true,
+    "title": "Юу хайж байна вэ?",
+    "subtitle": "Хэрэгцээгээ ангиллаар нь сонгоорой.",
+    "link_text": "Бүх бүтээгдэхүүн",
+    "items": [
+      {
+        "title": "Жимс, хүнсний ногоо",
+        "subtitle": "Өдөр тутмын хүнс",
+        "image": "https://cdn.emartmall.mn/Resource/product_webp/024973cf-1395-4923-be40-2a93b4deddfa.webp",
+        "target": "Жимс, хүнсний ногоо",
+        "background": "#f3f0e8",
+        "visible": true
+      },
+      {
+        "title": "Өдөр тутмын шинэ хүнс",
+        "subtitle": "Сүү, сүүн бүтээгдэхүүн болон бусад",
+        "image": "https://cdn.emartmall.mn/Resource/product_webp/78b00fa8-c901-4803-97e4-f600d617d44e.webp",
+        "target": "Өдөр тутмын шинэ хүнс",
+        "background": "#edf1f6",
+        "visible": true
+      },
+      {
+        "title": "Амттан",
+        "subtitle": "Амтат сонголтууд",
+        "image": "https://cdn.emartmall.mn/Resource/product_webp/65a3a4ef-35ba-4796-9e1b-1ba673cbfb1a.webp",
+        "target": "Амттан",
+        "background": "#f8edef",
+        "visible": true
+      }
+    ]
+  },
+  "catalog": {
+    "visible": true,
+    "title": "Хүнсний бүтээгдэхүүнүүд",
+    "subtitle": "Нэр, ангилал, үнээр нь сонгоорой.",
+    "new_title": "Шинээр ирсэн",
+    "sale_title": "Хямдралтай бүтээгдэхүүн",
+    "page_size": 24,
+    "show_source": false
+  },
+  "promotion": {
+    "visible": true,
+    "title": "Таны сонголт. Таны үүдэнд.",
+    "description": "Хүргэлтийн бүс болон захиалгын нөхцөлтэй танилцаарай.",
+    "button": "Хүргэлтийн мэдээлэл",
+    "target": "Хүргэлт",
+    "background": "#f0edfb"
+  },
+  "footer": {
+    "description": "Өдөр бүрийн хэрэгцээ, нэг дор.",
+    "copyright": "© Coba Market",
+    "contact_label": "Холбоо барих",
+    "phone": "",
+    "email": "",
+    "address": "",
+    "hours": "",
+    "facebook": "",
+    "instagram": "",
+    "notice": ""
+  },
+  "policies": {
+    "delivery_title": "Хүргэлтийн мэдээлэл",
+    "delivery_text": "Хүргэлтийн нөхцөл ороогүй байна.",
+    "about_title": "Бидний тухай",
+    "about_text": "",
+    "returns_title": "Буцаалтын нөхцөл",
+    "returns_text": "Буцаалтын нөхцөл ороогүй байна."
+  },
+  "checkout": {
+    "enabled": false,
+    "title": "Захиалга илгээх",
+    "message": "Захиалга хүлээн авах тохиргоо одоогоор хийгдээгүй байна. Холбоо барих мэдээллээр лавлаарай.",
+    "delivery_fee": 0
+  },
+  "theme": {
+    "primary": "#5433eb",
+    "ink": "#242328",
+    "background": "#ffffff",
+    "card_radius": 22
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "source": "https://emartmall.mn/",
+  "api": "https://restapi.emartmall.mn:10443/mn/api/search/elastic",
+  "checked_at": "2026-11-03T05:12:59.013054+00:00",
+  "source_js": "https://emartmall.mn/static/js/main.390c5140.js",
+  "source_js_verified_route": "/productdetail/{skucd}",
+  "root_category_mapping": [
+    {
+      "id": 1,
+      "name": "Жимс, хүнсний ногоо"
+    },
+    {
+      "id": 2,
+      "name": "Өдөр тутмын шинэ хүнс"
+    },
+    {
+      "id": 3,
+      "name": "Амттан"
+    },
+    {
+      "id": 4,
+      "name": "Боловсруулсан хүнс"
+    },
+    {
+      "id": 5,
+      "name": "Шингэн хүнс"
+    },
+    {
+      "id": 7,
+      "name": "Хүүхдийн бүтээгдэхүүн"
+    },
+    {
+      "id": 29,
+      "name": "Даршилсан, нөөшилсөн хүнс"
+    },
+    {
+      "id": 344,
+      "name": "Эрүүл мэндийн хүнс"
+    },
+    {
+      "id": 696,
+      "name": "Хөлдөөсөн бүтээгдэхүүн"
+    },
+    {
+      "id": 740,
+      "name": "Мах махан бүтээгдэхүүн"
+    }
+  ],
+  "raw_counts_by_query_category": {
+    "1": 128,
+    "2": 681,
+    "29": 355,
+    "3": 1399,
+    "344": 216,
+    "4": 1584,
+    "47": 132,
+    "5": 1404,
+    "696": 288,
+    "728": 35,
+    "740": 239
+  },
+  "included_counts_by_root": {
+    "Жимс, хүнсний ногоо": 128,
+    "Өдөр тутмын шинэ хүнс": 681,
+    "Даршилсан, нөөшилсөн хүнс": 355,
+    "Амттан": 1399,
+    "Эрүүл мэндийн хүнс": 150,
+    "Боловсруулсан хүнс": 1584,
+    "Хүүхдийн бүтээгдэхүүн": 167,
+    "Шингэн хүнс": 737,
+    "Хөлдөөсөн бүтээгдэхүүн": 288,
+    "Мах махан бүтээгдэхүүн": 239
+  },
+  "source_availability_counts": {
+    "True": 5728
+  },
+  "included": 5728,
+  "excluded": 733,
+  "exclusion_reasons": {
+    "vitamin_or_supplement_not_grocery_food": 66,
+    "alcohol_or_adult_category": 667
+  },
+  "food_roots": [
+    1,
+    2,
+    740,
+    4,
+    3,
+    5,
+    29,
+    696,
+    344
+  ],
+  "food_only_children_of_mixed_baby_root": [
+    47,
+    728
+  ],
+  "note": "Complete public snapshot for listed roots and children, with every page fetched. No stock quantity available: stock=null. Source availability refers to Emart, not CobaMarket. Alcohol root subgroup, vitamins/supplements, and all nonfood roots excluded. No automatic price or inventory synchronization."
+}
