@@ -1,0 +1,830 @@
+{
+  "source": "https://nomin.mn/",
+  "api": "https://nomin.mn/discover-products",
+  "source_api_module": "https://nomin.mn/assets/t._root._child._subchild._subsubchild._subsubsubchild-B1SOeNAh.js",
+  "source_route_verified": "/p/{sku}",
+  "source_route_sample": "https://nomin.mn/p/4001365",
+  "checked_at": "2026-11-03T07:18:06.940197+00:00",
+  "page_size": 100,
+  "queries": [
+    {
+      "slug": "38071",
+      "pages": [
+        {
+          "page": 1,
+          "items": 100,
+          "total": 674,
+          "has_more": true
+        },
+        {
+          "page": 2,
+          "items": 100,
+          "total": 674,
+          "has_more": true
+        },
+        {
+          "page": 3,
+          "items": 100,
+          "total": 674,
+          "has_more": true
+        },
+        {
+          "page": 4,
+          "items": 100,
+          "total": 674,
+          "has_more": true
+        },
+        {
+          "page": 5,
+          "items": 100,
+          "total": 674,
+          "has_more": true
+        },
+        {
+          "page": 6,
+          "items": 100,
+          "total": 674,
+          "has_more": true
+        },
+        {
+          "page": 7,
+          "items": 74,
+          "total": 674,
+          "has_more": false
+        }
+      ],
+      "raw_count": 674,
+      "unique_variant_count": 674,
+      "declared_total": 674,
+      "complete": true
+    },
+    {
+      "slug": "38029",
+      "pages": [
+        {
+          "page": 1,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 2,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 3,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 4,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 5,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 6,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 7,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 8,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 9,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 10,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 11,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 12,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 13,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 14,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 15,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 16,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 17,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 18,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 19,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 20,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 21,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 22,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 23,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 24,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 25,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 26,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 27,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 28,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 29,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 30,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 31,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 32,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 33,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 34,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 35,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 36,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 37,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 38,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 39,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 40,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 41,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 42,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 43,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 44,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 45,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 46,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 47,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 48,
+          "items": 100,
+          "total": 4883,
+          "has_more": true
+        },
+        {
+          "page": 49,
+          "items": 83,
+          "total": 4883,
+          "has_more": false
+        }
+      ],
+      "raw_count": 4883,
+      "unique_variant_count": 4883,
+      "declared_total": 4883,
+      "complete": true
+    },
+    {
+      "slug": "38228",
+      "pages": [
+        {
+          "page": 1,
+          "items": 100,
+          "total": 884,
+          "has_more": true
+        },
+        {
+          "page": 2,
+          "items": 100,
+          "total": 884,
+          "has_more": true
+        },
+        {
+          "page": 3,
+          "items": 100,
+          "total": 884,
+          "has_more": true
+        },
+        {
+          "page": 4,
+          "items": 100,
+          "total": 884,
+          "has_more": true
+        },
+        {
+          "page": 5,
+          "items": 100,
+          "total": 884,
+          "has_more": true
+        },
+        {
+          "page": 6,
+          "items": 100,
+          "total": 884,
+          "has_more": true
+        },
+        {
+          "page": 7,
+          "items": 100,
+          "total": 884,
+          "has_more": true
+        },
+        {
+          "page": 8,
+          "items": 100,
+          "total": 884,
+          "has_more": true
+        },
+        {
+          "page": 9,
+          "items": 84,
+          "total": 884,
+          "has_more": false
+        }
+      ],
+      "raw_count": 884,
+      "unique_variant_count": 884,
+      "declared_total": 884,
+      "complete": true
+    },
+    {
+      "slug": "00510",
+      "pages": [
+        {
+          "page": 1,
+          "items": 100,
+          "total": 201,
+          "has_more": true
+        },
+        {
+          "page": 2,
+          "items": 100,
+          "total": 201,
+          "has_more": true
+        },
+        {
+          "page": 3,
+          "items": 1,
+          "total": 201,
+          "has_more": false
+        }
+      ],
+      "raw_count": 201,
+      "unique_variant_count": 201,
+      "declared_total": 201,
+      "complete": true
+    },
+    {
+      "slug": "38335",
+      "pages": [
+        {
+          "page": 1,
+          "items": 46,
+          "total": 46,
+          "has_more": false
+        }
+      ],
+      "raw_count": 46,
+      "unique_variant_count": 46,
+      "declared_total": 46,
+      "complete": true
+    },
+    {
+      "slug": "38336",
+      "pages": [
+        {
+          "page": 1,
+          "items": 72,
+          "total": 72,
+          "has_more": false
+        }
+      ],
+      "raw_count": 72,
+      "unique_variant_count": 72,
+      "declared_total": 72,
+      "complete": true
+    },
+    {
+      "slug": "38337",
+      "pages": [
+        {
+          "page": 1,
+          "items": 27,
+          "total": 27,
+          "has_more": false
+        }
+      ],
+      "raw_count": 27,
+      "unique_variant_count": 27,
+      "declared_total": 27,
+      "complete": true
+    },
+    {
+      "slug": "144276",
+      "pages": [
+        {
+          "page": 1,
+          "items": 100,
+          "total": 958,
+          "has_more": true
+        },
+        {
+          "page": 2,
+          "items": 100,
+          "total": 958,
+          "has_more": true
+        },
+        {
+          "page": 3,
+          "items": 100,
+          "total": 958,
+          "has_more": true
+        },
+        {
+          "page": 4,
+          "items": 100,
+          "total": 958,
+          "has_more": true
+        },
+        {
+          "page": 5,
+          "items": 100,
+          "total": 958,
+          "has_more": true
+        },
+        {
+          "page": 6,
+          "items": 100,
+          "total": 958,
+          "has_more": true
+        },
+        {
+          "page": 7,
+          "items": 100,
+          "total": 958,
+          "has_more": true
+        },
+        {
+          "page": 8,
+          "items": 100,
+          "total": 958,
+          "has_more": true
+        },
+        {
+          "page": 9,
+          "items": 100,
+          "total": 958,
+          "has_more": true
+        },
+        {
+          "page": 10,
+          "items": 58,
+          "total": 958,
+          "has_more": false
+        }
+      ],
+      "raw_count": 958,
+      "unique_variant_count": 958,
+      "declared_total": 958,
+      "complete": true
+    }
+  ],
+  "all_queries_complete": true,
+  "unique_source_variants": 6597,
+  "included": 6432,
+  "verified_food_including_unpriced": 6433,
+  "excluded": 164,
+  "exclusion_reasons": {
+    "nonfood_name_audit:plant_growing_kit": 1,
+    "nonfood_name_audit:coffee_machine": 1,
+    "medicinal_or_dietary_supplement_name_audit": 20,
+    "nonfood_name_audit:soap_name_conflicts_with_food_description": 1,
+    "nonfood_name_audit:coffee_filter_paper": 1,
+    "vitamin_or_supplement_source_category": 8,
+    "nonfood_name_audit:shampoo_and_conditioner": 1,
+    "alcohol_source_category": 102,
+    "no_verified_food_taxonomy": 29
+  },
+  "included_counts_by_subcategory": {
+    "Сүүн бүтээгдэхүүн": 330,
+    "Органик хүнс": 99,
+    "Даршилсан, Нөөшилсөн": 408,
+    "Шинэ хүнс": 22,
+    "Талх нарийн боов": 147,
+    "Мах, Өндөг": 10,
+    "Жимс": 14,
+    "Цай, Кофе": 506,
+    "Амтлагч, Соус": 612,
+    "Махан бүтээгдэхүүн": 195,
+    "Өглөөний цай": 73,
+    "Амттан": 1603,
+    "Үр тариа, Гоймон": 366,
+    "Бэлэн бүтээгдэхүүн": 102,
+    "Хүүхдийн хүнс": 339,
+    "Эрүүл мэндийн хүнс": 156,
+    "Боловсруулсан хүнс": 440,
+    "Ус, Ундаа": 870,
+    "Хатаасан жимс": 62,
+    "Хүүхдийн хоол": 18,
+    "Эрүүл мэндийн цай кофе": 44,
+    "Эрүүл мэндийн ундаа": 4,
+    "Эрүүл мэндийн амттан": 7,
+    "Хүнс": 5
+  },
+  "unpriced_products": [
+    {
+      "source_id": "nomin:271734",
+      "name": "Соус Daesang 480гр",
+      "cat": "Хүнс",
+      "subcategory": "Амтлагч, Соус",
+      "unit": "480гр · ширхэг",
+      "price": null,
+      "old": null,
+      "stock": null,
+      "img": "https://assets.nomin.mn/preview/3a/annotation_2021-12-15_175709__preview.png",
+      "description": "Савлагаа: 480гр. Нэгж: ширхэг.",
+      "fresh": false,
+      "active": false,
+      "source_url": "https://nomin.mn/p/1156405",
+      "source_checked_at": "2026-11-03T07:18:06.940197+00:00",
+      "source_meta": {
+        "source": "nomin",
+        "source_sku": "1156405",
+        "source_variant_id": "271734",
+        "source_product_id": "278296",
+        "category_path": [
+          "Боловсруулсан хүнс",
+          "Амтлагч, Соус",
+          "Соус, Шингэн амтлагч"
+        ],
+        "category_path_ids": [
+          "2467",
+          "2541",
+          "4519"
+        ],
+        "all_food_category_paths": [
+          [
+            "Боловсруулсан хүнс",
+            "Амтлагч, Соус",
+            "Соус, Шингэн амтлагч"
+          ],
+          [
+            "Боловсруулсан хүнс",
+            "Амтлагч, Соус"
+          ],
+          [
+            "Боловсруулсан хүнс"
+          ]
+        ],
+        "leaf_category": "Соус, Шингэн амтлагч",
+        "source_unit": "piece",
+        "packaging": "480гр",
+        "source_available": true,
+        "source_created_at": 1736295451,
+        "source_updated_at": 1785459112,
+        "currency": "MNT",
+        "source_price": 0
+      }
+    }
+  ],
+  "unpriced_not_in_import": 1,
+  "validation_problems": 0,
+  "missing_images": 0,
+  "note": "Public source snapshot. Prices are source current computedPrice and regularPrice only when greater. stock=null: Nomin stock is not Coba stock. No automatic synchronization. Nonfood roots, alcohol categories, vitamins/supplements excluded. Final semantic name audit also excludes five equipment/growing-kit/cosmetics records and twenty explicitly medicinal/dietary preparations. Ordinary infant formula, tea/coffee including coffee capsules, candy with toys, fortified foods and vitamin drinks remain. One clearly named chocolate bar cross-listed as supplement retained using real food category. Five clearly named foods with only imported-food taxonomy retained under source food group. One source-price-zero sauce is retained separately in unpriced-products.json and not imported with a fabricated price. Source health tea,drink,sweet food categories included without copied health claims in descriptions.",
+  "image_check": {
+    "sample_size": 20,
+    "http_200": 20,
+    "note": "CDN Content-Type application/octet-stream; byte signatures checked on3samples",
+    "signature_samples": [
+      {
+        "source_id": "nomin:265187",
+        "bytes": 79296,
+        "signature": "jpeg"
+      },
+      {
+        "source_id": "nomin:270457",
+        "bytes": 485028,
+        "signature": "png"
+      },
+      {
+        "source_id": "nomin:334394",
+        "bytes": 13566,
+        "signature": "jpeg"
+      }
+    ]
+  },
+  "validation": {
+    "duplicate_source_ids": 0,
+    "duplicate_source_skus": 0,
+    "price_min": 428,
+    "price_max": 177980,
+    "max_name_length": 88,
+    "max_unit_length": 22,
+    "all_prices_positive_integer": true,
+    "all_own_stock_unknown": true
+  },
+  "name_audit_excluded": [
+    {
+      "source_variant_id": "163794",
+      "name": "Базил амтлагч ургамал тарьж ургуулах багц",
+      "reason": "nonfood_name_audit:plant_growing_kit"
+    },
+    {
+      "source_variant_id": "381983",
+      "name": "Кофе машин BEKO CED6522B",
+      "reason": "nonfood_name_audit:coffee_machine"
+    },
+    {
+      "source_variant_id": "350970",
+      "name": "Zakuro & Acai Beauty Smoothie Асай нэмэлт тэжээл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "278897",
+      "name": "Цэнэг Барагшуны Бэлдмэл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "278893",
+      "name": "Цэнэг элэг хамгаалах бэлдмэл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "271925",
+      "name": "Цэнэг Бөөр хамгаалах бэлдмэл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "271924",
+      "name": "Vitos Цэнэг дархлаа сайжруулах бэлдмэл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "271923",
+      "name": "Vitos дархлаа сайжруулах бэлдмэл, 100 мл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "271922",
+      "name": "Vitos Цэнэг элэг хамгаалах бэлдмэл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "271921",
+      "name": "Цэнэг Анар жимсний гоо сайхны бэлдмэл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "271920",
+      "name": "Цэнэг Анар гоо сайхны бэлдмэл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "270430",
+      "name": "HANBO D&F Бугын цусан эвэртэй эрүүл мэндийн бэлдмэл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "270414",
+      "name": "Хар сармисны өтгөрүүлсэн охь бэлдмэл Aronia",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "270413",
+      "name": "Солонгос Улаан Хүн Орхоодой болон Арониа Жимсний Бэлдмэл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "270411",
+      "name": "Бугын цусан эвэр, улаан хүн орхоодойтой эрүүл мэндийн бэлдмэл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "269618",
+      "name": "Viayzen Shaik 77 Парфюмтэй гарын шингэн саван",
+      "reason": "nonfood_name_audit:soap_name_conflicts_with_food_description"
+    },
+    {
+      "source_variant_id": "265849",
+      "name": "G&G Koffeefilter Nr.4 кофе шүүгч цаас, 100 ширхэг",
+      "reason": "nonfood_name_audit:coffee_filter_paper"
+    },
+    {
+      "source_variant_id": "159558",
+      "name": "Vitos Алтангагнуурын бэлдмэл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "154296",
+      "name": "Vitos Алтангагнууртай эрүүл мэндийн бэлдмэл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "151305",
+      "name": "Vitos Цэнэг Барагшуунтай бэлдмэл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "150999",
+      "name": "Sodon Foods Барагшун тоник бэлдмэл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "150939",
+      "name": "Vitos Цэнэг Бөөр хамгаалах бэлдмэл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "150551",
+      "name": "Sodon Foods Хунчиртай Тоник Бэлдмэл, 70мл x 5ш",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "149293",
+      "name": "Himalaya PartySmart шарталтаас сэргийлэх бэлдмэл",
+      "reason": "medicinal_or_dietary_supplement_name_audit"
+    },
+    {
+      "source_variant_id": "357846",
+      "name": "Ichikami чийгшүүлэгч шампунь ба ангижруулагч бэлгийн багц",
+      "reason": "nonfood_name_audit:shampoo_and_conditioner"
+    }
+  ]
+}
